@@ -62,7 +62,8 @@ The following data cleaning steps were performed:
 
 ## Dashboard Screenshot
 [FreshMart Dashboard]
-(FreshMart_Dashboard.png)
+<img width="1266" height="717" alt="FreshMart_Dashboard png" src="https://github.com/user-attachments/assets/9f387293-da23-468f-b55d-d1c750f8c745" />
+
 
 ## Conclusion
 The FreshMart dashboard provides valuable insights into sales performance and customer behavior, helping management make data-driven business decisions.
