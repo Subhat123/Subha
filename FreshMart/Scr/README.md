@@ -61,7 +61,8 @@ The following data cleaning steps were performed:
 - Encourage digital payment adoption through offers and discounts.
 
 ## Dashboard Screenshot
-
+[FreshMart Dashboard]
+(FreshMart_Dashboard.png)
 
 ## Conclusion
 The FreshMart dashboard provides valuable insights into sales performance and customer behavior, helping management make data-driven business decisions.
