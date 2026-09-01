@@ -78,6 +78,8 @@ The following data cleaning steps were performed:
 
 ## Dashboard Screenshot
 
+[TrendKart Dashboard]
+
 <img width="1398" height="742" alt="TrendKard_Dashboard png" src="https://github.com/user-attachments/assets/797b09e2-c6ec-46ee-880b-9721083f63e6" />
 
 
